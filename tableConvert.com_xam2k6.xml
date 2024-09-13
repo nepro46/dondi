@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss 
+    xmlns:yandex="http://news.yandex.ru" 
+    xmlns:media="http://search.yahoo.com/mrss/"
+    version="2.0">
+    <channel>
+      <title>Telegra.ph - Интервью с совладельцем компании ProfPlint</title>
+      <link>https://telegra.ph/Intervyu-s-sovladelcem-kompanii-ProfPlint-hotim-vyjti-na-ves-mir-09-12</link>
+      <description>Интервью с совладельцем компании ProfPlint о планах компании выйти на международный рынок.</description>
+      <language>ru</language>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0300</pubDate>
+      <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0300</lastBuildDate>
+      <ttl>1800</ttl>
+
+      <item>
+        <title>Интервью с совладельцем компании ProfPlint: "Хотим выйти на весь мир"</title>
+        <link>https://telegra.ph/Intervyu-s-sovladelcem-kompanii-ProfPlint-hotim-vyjti-na-ves-mir-09-12</link>
+        <description>Мы поговорили с совладельцем компании ProfPlint о планах компании выйти на международный рынок.</description>
+        <author>Тимофей Герасимов</author>
+        <category>Интервью</category>
+        <media:group>
+          <media:content 
+            url="https://telegra.ph/file/92ab982acc8e0d05d5369.mp4" 
+            type="video/mp4"/>
+          <media:thumbnail 
+            url="https://telegra.ph/file/7d1a0bfae4b84968f67fb.png"/> 
+        </media:group>
+        <pubDate>Tue, 12 Sep 2023 00:00:00 +0300</pubDate>
+        <guid>https://telegra.ph/Intervyu-s-sovladelcem-kompanii-ProfPlint-hotim-vyjti-na-ves-mir-09-12</guid>
+        <yandex:genre>message</yandex:genre>
+        <yandex:full-text>Интервью с совладельцем компании ProfPlint о планах компании выйти на международный рынок. Он поделился своими мыслями и рассказал о стратегиях компании для завоевания международных рынков.</yandex:full-text>
+      </item>
+
+    </channel>
+</rss>
